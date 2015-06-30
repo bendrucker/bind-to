@@ -1,0 +1,37 @@
+{
+  "name": "bind-to",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Bind all methods in an object to a specified context and arguments",
+  "license": "MIT",
+  "repository": "bendrucker/bind-to",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "bind",
+    "object",
+    "methods",
+    "function"
+  ],
+  "dependencies": {
+    "to-array": "~0.1.4",
+    "util-arity": "~1.0.0"
+  },
+  "devDependencies": {
+    "tape": "^4.0.0",
+    "standard": "^4.0.0"
+  },
+  "files": [
+    "index.js",
+    "readme.md"
+  ]
+}
