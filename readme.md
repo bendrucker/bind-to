@@ -5,7 +5,7 @@
 ## Install
 
 ```
-$ npm install --save bind-object
+$ npm install --save bind-to
 ```
 
 ## Usage
