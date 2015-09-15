@@ -1,7 +1,7 @@
 {
   "name": "bind-to",
   "main": "index.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Bind all methods in an object to a specified context and arguments",
   "license": "MIT",
   "repository": "bendrucker/bind-to",
