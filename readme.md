@@ -1,4 +1,4 @@
-# bind-to [![Build Status](https://travis-ci.org/bendrucker/bind-to.svg?branch=master)](https://travis-ci.org/bendrucker/bind-to)
+# bind-to [![Build Status](https://travis-ci.org/bendrucker/bind-to.svg?branch=master)](https://travis-ci.org/bendrucker/bind-to) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/bind-to.svg)](https://greenkeeper.io/)
 
 > Bind all methods in an object to a specified context and arguments
 
